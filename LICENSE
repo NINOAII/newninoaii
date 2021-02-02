@@ -1,3 +1,4 @@
+<<<<<<< HEAD
                      木兰宽松许可证, 第2版
 
    木兰宽松许可证， 第2版 
@@ -125,3 +126,24 @@
                http://license.coscl.org.cn/MulanPSL2 
    THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.  
    See the Mulan PSL v2 for more details.  
+=======
+PostgreSQL Licence
+
+Copyright (c) 2021, ninoaii
+
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose, without fee, and without a written agreement is
+hereby granted, provided that the above copyright notice and this paragraph
+and the following two paragraphs appear in all copies.
+
+IN NO EVENT SHALL [fullname] BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT,
+SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING
+OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF [fullname]
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+[fullname] SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS,
+AND [fullname] HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT, UPDATES,
+ENHANCEMENTS, OR MODIFICATIONS.
+>>>>>>> 7174e7a010ee55dd0050ec3e0a864bd822b1145f
